@@ -1,0 +1,6 @@
+var h1 = document.querySelector('h1')
+var a = document.querySelector('a')
+h1.setAttribute('title','F8 - Học lập trình để đi làm')
+h1.setAttribute('data-title','F8 - Học lập trình để đi làm')
+a.setAttribute('href',"https://fullstack.edu.vn/")
+a.setAttribute('target',"_blank")    
